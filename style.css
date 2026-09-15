@@ -109,6 +109,7 @@ footer {
 
 .product-card {
     vertical-align: top;
+    min-height: 520px;
 }
 .product-image img {
     width: 100%;
